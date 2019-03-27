@@ -2,7 +2,7 @@
 Infosec Links<p> 
 
 Twitter List:<p>
-<Coming Soon><p>
+Coming Soon<p>
   
 Reddit:<p>
 /r/netsec<p>
@@ -14,4 +14,4 @@ Reddit:<p>
 /r/forensics
 
 RSS:<p>
-<Coming Soon>
+Coming Soon
