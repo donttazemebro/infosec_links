@@ -1,17 +1,17 @@
 # infosec_links
-Infosec Links 
+Infosec Links<p> 
 
-Twitter List: 
-<Coming Soon>
+Twitter List:<p>
+<Coming Soon><p>
   
-Reddit:
+Reddit:<p>
 /r/netsec<p>
 /r/AskNetsec<p>
 /r/netsecstudents<p>
 /r/malware<p>
 /r/computerforensics<p>
 /r/reverseengineering<p>
-/r/forensics<p>
+/r/forensics
 
-RSS:
+RSS:<p>
 <Coming Soon>
