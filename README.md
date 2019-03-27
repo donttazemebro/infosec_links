@@ -5,13 +5,13 @@ Twitter List:
 <Coming Soon>
   
 Reddit:
-/r/netsec
-/r/AskNetsec
-/r/netsecstudents
-/r/malware
-/r/computerforensics
-/r/reverseengineering
-/r/forensics
+/r/netsec\n
+/r/AskNetsec\n
+/r/netsecstudents\n
+/r/malware\n
+/r/computerforensics\n
+/r/reverseengineering\n
+/r/forensics\n
 
 RSS:
 <Coming Soon>
