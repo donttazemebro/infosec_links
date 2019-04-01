@@ -1,284 +1,282 @@
-<pre>
-Twitter:
-https://twitter.com/menasec1
-https://twitter.com/SBousseaden
-https://twitter.com/PhilipTsukerman
-https://twitter.com/LibraAnalysis
-https://twitter.com/bohops
-https://twitter.com/DirectoryRanger
-https://twitter.com/Cyb3rWard0g
-https://twitter.com/ItsReallyNick
-https://twitter.com/KyleHanslovan
-https://twitter.com/chrisbisnett
-https://twitter.com/sixdub
-https://twitter.com/enigma0x3
-https://twitter.com/malware_traffic
-https://twitter.com/HuntressLabs
-https://twitter.com/DirectoryRanger
-https://twitter.com/Oddvarmoe
-https://twitter.com/FuzzySec
-https://twitter.com/cyb3rops
-https://twitter.com/stvemillertime
-https://twitter.com/QW5kcmV3
-https://twitter.com/pmelson
-https://twitter.com/WyattRoersma
-https://twitter.com/hacking_future
-https://twitter.com/Edgespot_io
-https://twitter.com/Ledtech3
-https://twitter.com/OryanDP
-https://twitter.com/_xpn_
-https://twitter.com/SANSInstitute
-https://twitter.com/sansforensics
-https://twitter.com/lennyzeltser
-https://twitter.com/DidierStevens
-https://twitter.com/xme
-https://twitter.com/CNMF_VirusAlert
-https://twitter.com/domchell
-https://twitter.com/seanmw
-https://twitter.com/mal_share
-https://twitter.com/herrcore
-https://twitter.com/jness
-https://twitter.com/DissectMalware
-https://twitter.com/dez_
-https://twitter.com/Hexacorn
-https://twitter.com/malcomvetter
-https://twitter.com/thor_scanner
-https://twitter.com/r_redteamsec
-https://twitter.com/aptnotes
-https://twitter.com/zodiacon
-https://twitter.com/unpacker
-https://twitter.com/ConsciousHacker
-https://twitter.com/Zerophage1337
-https://twitter.com/_wald0
-https://twitter.com/tiraniddo
-https://twitter.com/PhysicalDrive0
-https://twitter.com/hasherezade
-https://twitter.com/sans_isc
-https://twitter.com/scarybeasts
-https://twitter.com/reddit_sec_bot
-https://twitter.com/chrissanders88
-https://twitter.com/yararules
-https://twitter.com/JohnLaTwC
-https://twitter.com/j3ssgarcia
-https://twitter.com/nullandnull
-https://twitter.com/MSwannMSFT
-https://twitter.com/danielhbohannon
-https://twitter.com/dwizzzleMSFT
-https://twitter.com/securinti
-https://twitter.com/DFIRTraining
-https://twitter.com/ThreatMiner
-https://twitter.com/jinq102030
-https://twitter.com/twsecblog
-https://twitter.com/SANSPenTest
-https://twitter.com/TrustedSec
-https://twitter.com/strandjs
-https://twitter.com/DanielMiessler
-https://twitter.com/TalBeerySec
-https://twitter.com/certbund
-https://twitter.com/stamparm
-https://twitter.com/msftsecurity
-https://twitter.com/etrangeca
-https://twitter.com/WDSecurity
-https://twitter.com/hackerfantastic
-https://twitter.com/BHinfoSecurity
-https://twitter.com/TradecraftTues
-https://twitter.com/infosec_blogs
-https://twitter.com/room362
-https://twitter.com/MrUn1k0d3r
-https://twitter.com/dafthack
-https://twitter.com/jepayneMSFT
-https://twitter.com/jackcr
-https://twitter.com/dfullerto
-https://twitter.com/harmj0y
-https://twitter.com/PyroTek3
-https://twitter.com/taviso
-https://twitter.com/riskybusiness
-https://twitter.com/dfirblog
-https://twitter.com/SecurityWeek
-https://twitter.com/DarkReading
-https://twitter.com/TheHackersNews
-https://twitter.com/rootkovska
-https://twitter.com/beist
-https://twitter.com/ochsenmeier
-https://twitter.com/samykamkar
-https://twitter.com/DMBisson
-https://twitter.com/threatpost
-https://twitter.com/_sinn3r
-https://twitter.com/jiboutin
-https://twitter.com/VulnHub
-https://twitter.com/g0tmi1k
-https://twitter.com/binitamshah
-https://twitter.com/passingthehash
-https://twitter.com/HackingDave
-https://twitter.com/gentilkiwi
-https://twitter.com/mattifestation
-https://twitter.com/Carlos_Perez
-https://twitter.com/mubix
+### Twitter
+* [https://twitter.com/menasec1](https://twitter.com/menasec1)
+* [https://twitter.com/SBousseaden](https://twitter.com/SBousseaden)
+* [https://twitter.com/PhilipTsukerman](https://twitter.com/PhilipTsukerman)
+* [https://twitter.com/LibraAnalysis](https://twitter.com/LibraAnalysis)
+* [https://twitter.com/bohops](https://twitter.com/bohops)
+* [https://twitter.com/DirectoryRanger](https://twitter.com/DirectoryRanger)
+* [https://twitter.com/Cyb3rWard0g](https://twitter.com/Cyb3rWard0g)
+* [https://twitter.com/ItsReallyNick](https://twitter.com/ItsReallyNick)
+* [https://twitter.com/KyleHanslovan](https://twitter.com/KyleHanslovan)
+* [https://twitter.com/chrisbisnett](https://twitter.com/chrisbisnett)
+* [https://twitter.com/sixdub](https://twitter.com/sixdub)
+* [https://twitter.com/enigma0x3](https://twitter.com/enigma0x3)
+* [https://twitter.com/malware_traffic](https://twitter.com/malware_traffic)
+* [https://twitter.com/HuntressLabs](https://twitter.com/HuntressLabs)
+* [https://twitter.com/DirectoryRanger](https://twitter.com/DirectoryRanger)
+* [https://twitter.com/Oddvarmoe](https://twitter.com/Oddvarmoe)
+* [https://twitter.com/FuzzySec](https://twitter.com/FuzzySec)
+* [https://twitter.com/cyb3rops](https://twitter.com/cyb3rops)
+* [https://twitter.com/stvemillertime](https://twitter.com/stvemillertime)
+* [https://twitter.com/QW5kcmV3](https://twitter.com/QW5kcmV3)
+* [https://twitter.com/pmelson](https://twitter.com/pmelson)
+* [https://twitter.com/WyattRoersma](https://twitter.com/WyattRoersma)
+* [https://twitter.com/hacking_future](https://twitter.com/hacking_future)
+* [https://twitter.com/Edgespot_io](https://twitter.com/Edgespot_io)
+* [https://twitter.com/Ledtech3](https://twitter.com/Ledtech3)
+* [https://twitter.com/OryanDP](https://twitter.com/OryanDP)
+* [https://twitter.com/_xpn_](https://twitter.com/_xpn_)
+* [https://twitter.com/SANSInstitute](https://twitter.com/SANSInstitute)
+* [https://twitter.com/sansforensics](https://twitter.com/sansforensics)
+* [https://twitter.com/lennyzeltser](https://twitter.com/lennyzeltser)
+* [https://twitter.com/DidierStevens](https://twitter.com/DidierStevens)
+* [https://twitter.com/xme](https://twitter.com/xme)
+* [https://twitter.com/CNMF_VirusAlert](https://twitter.com/CNMF_VirusAlert)
+* [https://twitter.com/domchell](https://twitter.com/domchell)
+* [https://twitter.com/seanmw](https://twitter.com/seanmw)
+* [https://twitter.com/mal_share](https://twitter.com/mal_share)
+* [https://twitter.com/herrcore](https://twitter.com/herrcore)
+* [https://twitter.com/jness](https://twitter.com/jness)
+* [https://twitter.com/DissectMalware](https://twitter.com/DissectMalware)
+* [https://twitter.com/dez_](https://twitter.com/dez_)
+* [https://twitter.com/Hexacorn](https://twitter.com/Hexacorn)
+* [https://twitter.com/malcomvetter](https://twitter.com/malcomvetter)
+* [https://twitter.com/thor_scanner](https://twitter.com/thor_scanner)
+* [https://twitter.com/r_redteamsec](https://twitter.com/r_redteamsec)
+* [https://twitter.com/aptnotes](https://twitter.com/aptnotes)
+* [https://twitter.com/zodiacon](https://twitter.com/zodiacon)
+* [https://twitter.com/unpacker](https://twitter.com/unpacker)
+* [https://twitter.com/ConsciousHacker](https://twitter.com/ConsciousHacker)
+* [https://twitter.com/Zerophage1337](https://twitter.com/Zerophage1337)
+* [https://twitter.com/_wald0](https://twitter.com/_wald0)
+* [https://twitter.com/tiraniddo](https://twitter.com/tiraniddo)
+* [https://twitter.com/PhysicalDrive0](https://twitter.com/PhysicalDrive0)
+* [https://twitter.com/hasherezade](https://twitter.com/hasherezade)
+* [https://twitter.com/sans_isc](https://twitter.com/sans_isc)
+* [https://twitter.com/scarybeasts](https://twitter.com/scarybeasts)
+* [https://twitter.com/reddit_sec_bot](https://twitter.com/reddit_sec_bot)
+* [https://twitter.com/chrissanders88](https://twitter.com/chrissanders88)
+* [https://twitter.com/yararules](https://twitter.com/yararules)
+* [https://twitter.com/JohnLaTwC](https://twitter.com/JohnLaTwC)
+* [https://twitter.com/j3ssgarcia](https://twitter.com/j3ssgarcia)
+* [https://twitter.com/nullandnull](https://twitter.com/nullandnull)
+* [https://twitter.com/MSwannMSFT](https://twitter.com/MSwannMSFT)
+* [https://twitter.com/danielhbohannon](https://twitter.com/danielhbohannon)
+* [https://twitter.com/dwizzzleMSFT](https://twitter.com/dwizzzleMSFT)
+* [https://twitter.com/securinti](https://twitter.com/securinti)
+* [https://twitter.com/DFIRTraining](https://twitter.com/DFIRTraining)
+* [https://twitter.com/ThreatMiner](https://twitter.com/ThreatMiner)
+* [https://twitter.com/jinq102030](https://twitter.com/jinq102030)
+* [https://twitter.com/twsecblog](https://twitter.com/twsecblog)
+* [https://twitter.com/SANSPenTest](https://twitter.com/SANSPenTest)
+* [https://twitter.com/TrustedSec](https://twitter.com/TrustedSec)
+* [https://twitter.com/strandjs](https://twitter.com/strandjs)
+* [https://twitter.com/DanielMiessler](https://twitter.com/DanielMiessler)
+* [https://twitter.com/TalBeerySec](https://twitter.com/TalBeerySec)
+* [https://twitter.com/certbund](https://twitter.com/certbund)
+* [https://twitter.com/stamparm](https://twitter.com/stamparm)
+* [https://twitter.com/msftsecurity](https://twitter.com/msftsecurity)
+* [https://twitter.com/etrangeca](https://twitter.com/etrangeca)
+* [https://twitter.com/WDSecurity](https://twitter.com/WDSecurity)
+* [https://twitter.com/hackerfantastic](https://twitter.com/hackerfantastic)
+* [https://twitter.com/BHinfoSecurity](https://twitter.com/BHinfoSecurity)
+* [https://twitter.com/TradecraftTues](https://twitter.com/TradecraftTues)
+* [https://twitter.com/infosec_blogs](https://twitter.com/infosec_blogs)
+* [https://twitter.com/room362](https://twitter.com/room362)
+* [https://twitter.com/MrUn1k0d3r](https://twitter.com/MrUn1k0d3r)
+* [https://twitter.com/dafthack](https://twitter.com/dafthack)
+* [https://twitter.com/jepayneMSFT](https://twitter.com/jepayneMSFT)
+* [https://twitter.com/jackcr](https://twitter.com/jackcr)
+* [https://twitter.com/dfullerto](https://twitter.com/dfullerto)
+* [https://twitter.com/harmj0y](https://twitter.com/harmj0y)
+* [https://twitter.com/PyroTek3](https://twitter.com/PyroTek3)
+* [https://twitter.com/taviso](https://twitter.com/taviso)
+* [https://twitter.com/riskybusiness](https://twitter.com/riskybusiness)
+* [https://twitter.com/dfirblog](https://twitter.com/dfirblog)
+* [https://twitter.com/SecurityWeek](https://twitter.com/SecurityWeek)
+* [https://twitter.com/DarkReading](https://twitter.com/DarkReading)
+* [https://twitter.com/TheHackersNews](https://twitter.com/TheHackersNews)
+* [https://twitter.com/rootkovska](https://twitter.com/rootkovska)
+* [https://twitter.com/beist](https://twitter.com/beist)
+* [https://twitter.com/ochsenmeier](https://twitter.com/ochsenmeier)
+* [https://twitter.com/samykamkar](https://twitter.com/samykamkar)
+* [https://twitter.com/DMBisson](https://twitter.com/DMBisson)
+* [https://twitter.com/threatpost](https://twitter.com/threatpost)
+* [https://twitter.com/_sinn3r](https://twitter.com/_sinn3r)
+* [https://twitter.com/jiboutin](https://twitter.com/jiboutin)
+* [https://twitter.com/VulnHub](https://twitter.com/VulnHub)
+* [https://twitter.com/g0tmi1k](https://twitter.com/g0tmi1k)
+* [https://twitter.com/binitamshah](https://twitter.com/binitamshah)
+* [https://twitter.com/passingthehash](https://twitter.com/passingthehash)
+* [https://twitter.com/HackingDave](https://twitter.com/HackingDave)
+* [https://twitter.com/gentilkiwi](https://twitter.com/gentilkiwi)
+* [https://twitter.com/mattifestation](https://twitter.com/mattifestation)
+* [https://twitter.com/Carlos_Perez](https://twitter.com/Carlos_Perez)
+* [https://twitter.com/mubix](https://twitter.com/mubix)
 
-  
-Reddit:
-/r/netsec
-/r/AskNetsec
-/r/netsecstudents
-/r/malware
-/r/computerforensics
-/r/reverseengineering
-/r/forensics
 
-RSS:
-Endgame's Blog
-https://www.endgame.com/feed.xml
-https://www.endgame.com/feed.xml
+### Reddit
+* [https://www.reddit.com/r/netsec](https://www.reddit.com/r/netsec)
+* [https://www.reddit.com/r/AskNetsec](https://www.reddit.com/r/AskNetsec)
+* [https://www.reddit.com/r/netsecstudents](https://www.reddit.com/r/netsecstudents)
+* [https://www.reddit.com/r/malware](https://www.reddit.com/r/malware)
+* [https://www.reddit.com/r/computerforensics](https://www.reddit.com/r/computerforensics)
+* [https://www.reddit.com/r/reverseengineering](https://www.reddit.com/r/reverseengineering)
+* [https://www.reddit.com/r/forensics](https://www.reddit.com/r/forensics)
 
-Naked Security - Sophos
-http://feeds.feedburner.com/NakedSecurity
-https://nakedsecurity.sophos.com
+### RSS
+#### Endgame's Blog
+* [https://www.endgame.com/feed.xml](https://www.endgame.com/feed.xml)
+* [https://www.endgame.com/feed.xml](https://www.endgame.com/feed.xml)
 
-Darknet - The Darkside
-http://feeds.feedburner.com/darknethackers
-https://www.darknet.org.uk
+#### Naked Security - Sophos
+* [http://feeds.feedburner.com/NakedSecurity](http://feeds.feedburner.com/NakedSecurity)
+* [https://nakedsecurity.sophos.com](https://nakedsecurity.sophos.com)
 
-Halvar Flake
-http://addxorrol.blogspot.com/feeds/posts/default
-http://addxorrol.blogspot.com/
+#### Darknet - The Darkside
+* [http://feeds.feedburner.com/darknethackers](http://feeds.feedburner.com/darknethackers)
+* [https://www.darknet.org.uk](https://www.darknet.org.uk)
 
-Security Affairs 
-http://securityaffairs.co/wordpress/feed
-https://securityaffairs.co/wordpress
+#### Halvar Flake
+* [http://addxorrol.blogspot.com/feeds/posts/default](http://addxorrol.blogspot.com/feeds/posts/default)
+* [http://addxorrol.blogspot.com/](http://addxorrol.blogspot.com/)
 
-Count Upon Security
-http://countuponsecurity.com/feed/
-https://countuponsecurity.com
+#### Security Affairs
+* [http://securityaffairs.co/wordpress/feed](http://securityaffairs.co/wordpress/feed)
+* [https://securityaffairs.co/wordpress](https://securityaffairs.co/wordpress)
 
-Microsoft Sec Notification
-http://seclists.org/rss/microsoft.rss
-http://seclists.org/#microsoft
+#### Count Upon Security
+* [http://countuponsecurity.com/feed/](http://countuponsecurity.com/feed/)
+* [https://countuponsecurity.com](https://countuponsecurity.com)
 
-Malware Analysis, News and Indicators - Latest posts
-https://malware.news/posts.rss
-https://malware.news
+#### Microsoft Sec Notification
+* [http://seclists.org/rss/microsoft.rss](http://seclists.org/rss/microsoft.rss)
+* [http://seclists.org/#microsoft](http://seclists.org/#microsoft)
 
-DFIR and Threat Hunting
-http://findingbad.blogspot.com/feeds/posts/default
-http://findingbad.blogspot.com/
+#### Malware Analysis, News and Indicators - Latest posts
+* [https://malware.news/posts.rss](https://malware.news/posts.rss)
+* [https://malware.news](https://malware.news)
 
-Krebs on Security
-http://feeds.feedburner.com/KrebsOnSecurity
-https://krebsonsecurity.com
+#### DFIR and Threat Hunting
+* [http://findingbad.blogspot.com/feeds/posts/default](http://findingbad.blogspot.com/feeds/posts/default)
+* [http://findingbad.blogspot.com/](http://findingbad.blogspot.com/)
 
-Threat Research
-https://www.fireeye.com/content/fireeye-www/en_US/blog/threat-research/_jcr_content.feed
-http://www.fireeye.com/blog/threat-research.html
+#### Krebs on Security
+* [http://feeds.feedburner.com/KrebsOnSecurity](http://feeds.feedburner.com/KrebsOnSecurity)
+* [https://krebsonsecurity.com](https://krebsonsecurity.com)
 
-Duo Security Bulletin
-http://www.duosecurity.com/blog/rss
-https://duo.com/
+#### Threat Research
+* [https://www.fireeye.com/content/fireeye-www/en_US/blog/threat-research/_jcr_content.feed](https://www.fireeye.com/content/fireeye-www/en_US/blog/threat-research/_jcr_content.feed)
+* [http://www.fireeye.com/blog/threat-research.html](http://www.fireeye.com/blog/threat-research.html)
 
-Security to the Core | Arbor Networks Security
-http://asert.arbornetworks.com/feed/
-https://www.netscout.com/blog/asert/rss.xml
+#### Duo Security Bulletin
+* [http://www.duosecurity.com/blog/rss](http://www.duosecurity.com/blog/rss)
+* [https://duo.com/](https://duo.com/)
 
-Blog
-https://www.cybereason.com/blog/rss.xml
-https://www.cybereason.com/blog
+#### Security to the Core | Arbor Networks Security
+* [http://asert.arbornetworks.com/feed/](http://asert.arbornetworks.com/feed/)
+* [https://www.netscout.com/blog/asert/rss.xml](https://www.netscout.com/blog/asert/rss.xml)
 
-Threatpost
-http://threatpost.com/feed
-https://threatpost.com
+#### Blog
+* [https://www.cybereason.com/blog/rss.xml](https://www.cybereason.com/blog/rss.xml)
+* [https://www.cybereason.com/blog](https://www.cybereason.com/blog)
 
-The Hacker News [ THN ] - Security Blog
-http://feeds.feedburner.com/TheHackersNews
-https://thehackernews.com/
+#### Threatpost
+* [http://threatpost.com/feed](http://threatpost.com/feed)
+* [https://threatpost.com](https://threatpost.com)
 
-CERT Advisories
-http://seclists.org/rss/cert.rss
-http://seclists.org/#cert
+#### The Hacker News [ THN ] - Security Blog
+* [http://feeds.feedburner.com/TheHackersNews](http://feeds.feedburner.com/TheHackersNews)
+* [https://thehackernews.com/](https://thehackernews.com/)
 
-News from the Lab
-https://labsblog.f-secure.com/feed/rss/
-https://labsblog.f-secure.com
+#### CERT Advisories
+* [http://seclists.org/rss/cert.rss](http://seclists.org/rss/cert.rss)
+* [http://seclists.org/#cert](http://seclists.org/#cert)
 
-Securelist
-http://www.securelist.com/en/rss/allupdates
-https://securelist.com
+#### News from the Lab
+* [https://labsblog.f-secure.com/feed/rss/](https://labsblog.f-secure.com/feed/rss/)
+* [https://labsblog.f-secure.com](https://labsblog.f-secure.com)
 
-Active Directory Security
-http://adsecurity.org/?feed=rss2
-https://adsecurity.org
+#### Securelist
+* [http://www.securelist.com/en/rss/allupdates](http://www.securelist.com/en/rss/allupdates)
+* [https://securelist.com](https://securelist.com)
 
-Blog – Red Canary
-https://www.redcanary.com/blog/feed/
-https://redcanary.com
+#### Active Directory Security
+* [http://adsecurity.org/?feed=rss2](http://adsecurity.org/?feed=rss2)
+* [https://adsecurity.org](https://adsecurity.org)
 
-SkullSecurity
-http://www.skullsecurity.org/blog/feed
-https://blog.skullsecurity.org
+#### Blog – Red Canary
+* [https://www.redcanary.com/blog/feed/](https://www.redcanary.com/blog/feed/)
+* [https://redcanary.com](https://redcanary.com)
 
-Security
-http://scarybeastsecurity.blogspot.com/feeds/posts/default
-https://scarybeastsecurity.blogspot.com/
+#### SkullSecurity
+* [http://www.skullsecurity.org/blog/feed](http://www.skullsecurity.org/blog/feed)
+* [https://blog.skullsecurity.org](https://blog.skullsecurity.org)
 
-SANS Internet Storm Center, InfoCON: green
-http://isc.sans.edu/rssfeed_full.xml
-https://isc.sans.edu
+#### Security
+* [http://scarybeastsecurity.blogspot.com/feeds/posts/default](http://scarybeastsecurity.blogspot.com/feeds/posts/default)
+* [https://scarybeastsecurity.blogspot.com/](https://scarybeastsecurity.blogspot.com/)
 
-DarkReading - All Stories
-http://www.darkreading.com/rss/all.xml
-https://www.darkreading.com
+#### SANS Internet Storm Center, InfoCON: green
+* [http://isc.sans.edu/rssfeed_full.xml](http://isc.sans.edu/rssfeed_full.xml)
+* [https://isc.sans.edu](https://isc.sans.edu)
 
-Strategic Cyber LLC
-http://blog.strategiccyber.com/feed/
-https://blog.cobaltstrike.com
+#### DarkReading - All Stories
+* [http://www.darkreading.com/rss/all.xml](http://www.darkreading.com/rss/all.xml)
+* [https://www.darkreading.com](https://www.darkreading.com)
 
-Zero Day Blog RSS | ZDNet
-http://www.zdnet.com/blog/security/rss
-https://www.zdnet.com/
+#### Strategic Cyber LLC
+* [http://blog.strategiccyber.com/feed/](http://blog.strategiccyber.com/feed/)
+* [https://blog.cobaltstrike.com](https://blog.cobaltstrike.com)
 
-Exploit Monday
-http://www.exploit-monday.com/feeds/posts/default
-http://www.exploit-monday.com/
+#### Zero Day Blog RSS | ZDNet
+* [http://www.zdnet.com/blog/security/rss](http://www.zdnet.com/blog/security/rss)
+* [https://www.zdnet.com/](https://www.zdnet.com/)
 
-n00py Blog
-https://www.n00py.io/feed/
-https://www.n00py.io
+#### Exploit Monday
+* [http://www.exploit-monday.com/feeds/posts/default](http://www.exploit-monday.com/feeds/posts/default)
+* [http://www.exploit-monday.com/](http://www.exploit-monday.com/)
 
-MENASEC - Applied Security Research
-https://blog.menasec.net/feeds/posts/default
-https://blog.menasec.net/
+#### n00py Blog
+* [https://www.n00py.io/feed/](https://www.n00py.io/feed/)
+* [https://www.n00py.io](https://www.n00py.io)
 
-Didier Stevens
-http://blog.didierstevens.com/feed/
-https://blog.didierstevens.com
+#### MENASEC - Applied Security Research
+* [https://blog.menasec.net/feeds/posts/default](https://blog.menasec.net/feeds/posts/default)
+* [https://blog.menasec.net/](https://blog.menasec.net/)
 
-Oddvar Moe's Blog
-https://oddvar.moe/feed/
-https://oddvar.moe
+#### Didier Stevens
+* [http://blog.didierstevens.com/feed/](http://blog.didierstevens.com/feed/)
+* [https://blog.didierstevens.com](https://blog.didierstevens.com)
 
-zerosum0x0
-http://zerosum0x0.blogspot.com/feeds/posts/default
-https://zerosum0x0.blogspot.com/
+#### Oddvar Moe's Blog
+* [https://oddvar.moe/feed/](https://oddvar.moe/feed/)
+* [https://oddvar.moe](https://oddvar.moe)
 
-dfir it!
-https://dfir.it/atom.xml
-http://dfir.it/
+#### zerosum0x0
+* [http://zerosum0x0.blogspot.com/feeds/posts/default](http://zerosum0x0.blogspot.com/feeds/posts/default)
+* [https://zerosum0x0.blogspot.com/](https://zerosum0x0.blogspot.com/)
 
-Shell is Only the Beginning
-http://www.darkoperator.com/blog/rss.xml
-https://www.darkoperator.com/
+#### dfir it!
+* [https://dfir.it/atom.xml](https://dfir.it/atom.xml)
+* [http://dfir.it/](http://dfir.it/)
 
-Carnal0wnage Blog
-http://carnal0wnage.blogspot.com/feeds/posts/default
-http://carnal0wnage.attackresearch.com/
+#### Shell is Only the Beginning
+* [http://www.darkoperator.com/blog/rss.xml](http://www.darkoperator.com/blog/rss.xml)
+* [https://www.darkoperator.com/](https://www.darkoperator.com/)
 
-The Register - Security
-http://www.theregister.co.uk/security/headlines.atom
-https://www.theregister.co.uk/security/
+#### Carnal0wnage Blog
+* [http://carnal0wnage.blogspot.com/feeds/posts/default](http://carnal0wnage.blogspot.com/feeds/posts/default)
+* [http://carnal0wnage.attackresearch.com/](http://carnal0wnage.attackresearch.com/)
 
-Volatility Labs
-http://volatility-labs.blogspot.com/feeds/posts/default
-https://volatility-labs.blogspot.com/
+#### The Register - Security
+* [http://www.theregister.co.uk/security/headlines.atom](http://www.theregister.co.uk/security/headlines.atom)
+* [https://www.theregister.co.uk/security/](https://www.theregister.co.uk/security/)
 
-Microsoft Malware Protection Center
-http://blogs.technet.com/mmpc/rss.xml
-https://www.microsoft.com/security/blog
-</pre>
+#### Volatility Labs
+* [http://volatility-labs.blogspot.com/feeds/posts/default](http://volatility-labs.blogspot.com/feeds/posts/default)
+* [https://volatility-labs.blogspot.com/](https://volatility-labs.blogspot.com/)
+
+#### Microsoft Malware Protection Center
+* [http://blogs.technet.com/mmpc/rss.xml](http://blogs.technet.com/mmpc/rss.xml)
+* [https://www.microsoft.com/security/blog](https://www.microsoft.com/security/blog)
