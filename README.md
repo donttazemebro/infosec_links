@@ -128,4 +128,158 @@ Reddit:<p>
 /r/forensics
 
 RSS:<p>
-Coming Soon
+Endgame's Blog
+https://www.endgame.com/feed.xml
+https://www.endgame.com/feed.xml
+
+Naked Security - Sophos
+http://feeds.feedburner.com/NakedSecurity
+https://nakedsecurity.sophos.com
+
+Darknet - The Darkside
+http://feeds.feedburner.com/darknethackers
+https://www.darknet.org.uk
+
+Halvar Flake
+http://addxorrol.blogspot.com/feeds/posts/default
+http://addxorrol.blogspot.com/
+
+Security Affairs 
+http://securityaffairs.co/wordpress/feed
+https://securityaffairs.co/wordpress
+
+Count Upon Security
+http://countuponsecurity.com/feed/
+https://countuponsecurity.com
+
+Microsoft Sec Notification
+http://seclists.org/rss/microsoft.rss
+http://seclists.org/#microsoft
+
+Malware Analysis, News and Indicators - Latest posts
+https://malware.news/posts.rss
+https://malware.news
+
+DFIR and Threat Hunting
+http://findingbad.blogspot.com/feeds/posts/default
+http://findingbad.blogspot.com/
+
+Krebs on Security
+http://feeds.feedburner.com/KrebsOnSecurity
+https://krebsonsecurity.com
+
+Threat Research
+https://www.fireeye.com/content/fireeye-www/en_US/blog/threat-research/_jcr_content.feed
+http://www.fireeye.com/blog/threat-research.html
+
+Duo Security Bulletin
+http://www.duosecurity.com/blog/rss
+https://duo.com/
+
+Security to the Core | Arbor Networks Security
+http://asert.arbornetworks.com/feed/
+https://www.netscout.com/blog/asert/rss.xml
+
+Blog
+https://www.cybereason.com/blog/rss.xml
+https://www.cybereason.com/blog
+
+Threatpost
+http://threatpost.com/feed
+https://threatpost.com
+
+The Hacker News [ THN ] - Security Blog
+http://feeds.feedburner.com/TheHackersNews
+https://thehackernews.com/
+
+CERT Advisories
+http://seclists.org/rss/cert.rss
+http://seclists.org/#cert
+
+News from the Lab
+https://labsblog.f-secure.com/feed/rss/
+https://labsblog.f-secure.com
+
+Securelist
+http://www.securelist.com/en/rss/allupdates
+https://securelist.com
+
+Active Directory Security
+http://adsecurity.org/?feed=rss2
+https://adsecurity.org
+
+Blog – Red Canary
+https://www.redcanary.com/blog/feed/
+https://redcanary.com
+
+SkullSecurity
+http://www.skullsecurity.org/blog/feed
+https://blog.skullsecurity.org
+
+Security
+http://scarybeastsecurity.blogspot.com/feeds/posts/default
+https://scarybeastsecurity.blogspot.com/
+
+SANS Internet Storm Center, InfoCON: green
+http://isc.sans.edu/rssfeed_full.xml
+https://isc.sans.edu
+
+DarkReading - All Stories
+http://www.darkreading.com/rss/all.xml
+https://www.darkreading.com
+
+Strategic Cyber LLC
+http://blog.strategiccyber.com/feed/
+https://blog.cobaltstrike.com
+
+Zero Day Blog RSS | ZDNet
+http://www.zdnet.com/blog/security/rss
+https://www.zdnet.com/
+
+Exploit Monday
+http://www.exploit-monday.com/feeds/posts/default
+http://www.exploit-monday.com/
+
+n00py Blog
+https://www.n00py.io/feed/
+https://www.n00py.io
+
+MENASEC - Applied Security Research
+https://blog.menasec.net/feeds/posts/default
+https://blog.menasec.net/
+
+Didier Stevens
+http://blog.didierstevens.com/feed/
+https://blog.didierstevens.com
+
+Oddvar Moe's Blog
+https://oddvar.moe/feed/
+https://oddvar.moe
+
+zerosum0x0
+http://zerosum0x0.blogspot.com/feeds/posts/default
+https://zerosum0x0.blogspot.com/
+
+dfir it!
+https://dfir.it/atom.xml
+http://dfir.it/
+
+Shell is Only the Beginning
+http://www.darkoperator.com/blog/rss.xml
+https://www.darkoperator.com/
+
+Carnal0wnage Blog
+http://carnal0wnage.blogspot.com/feeds/posts/default
+http://carnal0wnage.attackresearch.com/
+
+The Register - Security
+http://www.theregister.co.uk/security/headlines.atom
+https://www.theregister.co.uk/security/
+
+Volatility Labs
+http://volatility-labs.blogspot.com/feeds/posts/default
+https://volatility-labs.blogspot.com/
+
+Microsoft Malware Protection Center
+http://blogs.technet.com/mmpc/rss.xml
+https://www.microsoft.com/security/blog
