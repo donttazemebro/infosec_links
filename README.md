@@ -1,7 +1,4 @@
-# infosec_links
 <pre>
-Infosec Links
-
 Twitter:
 https://twitter.com/menasec1
 https://twitter.com/SBousseaden
