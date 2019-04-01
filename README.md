@@ -1,7 +1,8 @@
 # infosec_links
-Infosec Links<p> 
+<pre>
+Infosec Links
 
-Twitter:<p>
+Twitter:
 https://twitter.com/menasec1
 https://twitter.com/SBousseaden
 https://twitter.com/PhilipTsukerman
@@ -116,18 +117,18 @@ https://twitter.com/gentilkiwi
 https://twitter.com/mattifestation
 https://twitter.com/Carlos_Perez
 https://twitter.com/mubix
-<p>
+
   
-Reddit:<p>
-/r/netsec<p>
-/r/AskNetsec<p>
-/r/netsecstudents<p>
-/r/malware<p>
-/r/computerforensics<p>
-/r/reverseengineering<p>
+Reddit:
+/r/netsec
+/r/AskNetsec
+/r/netsecstudents
+/r/malware
+/r/computerforensics
+/r/reverseengineering
 /r/forensics
 
-RSS:<p>
+RSS:
 Endgame's Blog
 https://www.endgame.com/feed.xml
 https://www.endgame.com/feed.xml
@@ -283,3 +284,4 @@ https://volatility-labs.blogspot.com/
 Microsoft Malware Protection Center
 http://blogs.technet.com/mmpc/rss.xml
 https://www.microsoft.com/security/blog
+</pre>
